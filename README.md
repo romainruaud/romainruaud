@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**romainruaud/romainruaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am [Romain Ruaud](https://twitter.com/romain_ruaud). <br/>
+I used to be an E-Commerce expert for years, especially on Magento. <br/>
+I'm also an intrapreneur, co-founder & CTO of [ElasticSuite](https://elasticsuite.io) which is a brand of [Smile](https://www.smile.eu).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 👷 What I'm currently working on
+
+- [Smile-SA/elasticsuite](https://github.com/smile-sa/elasticsuite) - The most downloaded searchandising extension for Magento
+- [Elastic-Suite/gally](https://github.com/Elastic-Suite/gally) - The newborn of the Elasticsuite family, an Open Source searchandizing tool, suitable for any E-Commerce application
+
+---
+
+#### 📫 How to reach me
+
+- Twitter: [@romain_ruaud](https://twitter.com/romain_ruaud)
+- Email: [romain.ruaud@gmail.com](mailto://romain.ruaud@gmail.com)
+- LinkedIn: [Romain Ruaud](https://www.linkedin.com/in/romain-ruaud-5a001a20/)
+- Company website: [elasticsuite.io](https://elasticsuite.io)
