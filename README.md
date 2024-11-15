@@ -9,7 +9,7 @@ I'm also an intrapreneur, co-founder & CTO of [ElasticSuite](https://elasticsuit
 #### 👷 What I'm currently working on
 
 - [Smile-SA/elasticsuite](https://github.com/smile-sa/elasticsuite) - The most downloaded searchandising extension for Magento
-- [Elastic-Suite/gally](https://github.com/Elastic-Suite/gally) - The newborn of the Elasticsuite family, an Open Source searchandizing tool, suitable for any E-Commerce application
+- [Elastic-Suite/gally](https://github.com/Elastic-Suite/gally) - The newborn of the Elasticsuite family, an Open Source searchandizing tool based on Symfony and API Platform, suitable for any E-Commerce application
 
 ---
 
